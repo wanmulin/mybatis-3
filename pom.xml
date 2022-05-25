@@ -23,7 +23,7 @@
     <groupId>org.mybatis</groupId>
     <artifactId>mybatis-parent</artifactId>
     <version>31-SNAPSHOT</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>mybatis</artifactId>
@@ -144,7 +144,7 @@
     <dependency>
       <groupId>ognl</groupId>
       <artifactId>ognl</artifactId>
-      <version>3.2.6</version>
+      <version>3.3.2</version>
       <scope>compile</scope>
       <optional>true</optional>
     </dependency>
